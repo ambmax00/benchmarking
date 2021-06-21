@@ -21,3 +21,8 @@ matrix.
 Structures of gquadruplex from Patrick Normann's group
 
 Structures of acids by ambmax00, optimized at B3LYP/6-31G*
+
+Prophyrin structures from Adv. Mater., DOI: 10.1002/adma.201700888
+Supercells generated using jmol
+
+Other: set of molecules used for benchmarking, see https://doi.org/10.1063/1.2889385
